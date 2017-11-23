@@ -1,6 +1,6 @@
 ---
 title: 'Getting going with Grav'
-media_order: grav-logo.jpg
+media_order: grav-logo-610x169.jpg
 taxonomy:
     tag:
         - grav
