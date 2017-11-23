@@ -1,14 +1,19 @@
 ---
 title: 'Getting going with Grav'
+taxonomy:
+    tag:
+        - grav
+        - CMS
+        - Technology
 hide_git_sync_repo_link: false
 content:
     items: '@self.children'
-    limit: 5
+    limit: '5'
     order:
         by: date
         dir: desc
-    pagination: true
-    url_taxonomy_filters: true
+    pagination: '1'
+    url_taxonomy_filters: '1'
 ---
 
 Here is the very first post onto this new [Grav](https://getgrav.org/) setup.
