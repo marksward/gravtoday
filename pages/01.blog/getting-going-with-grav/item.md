@@ -1,11 +1,13 @@
 ---
 title: 'Getting going with Grav'
+media_order: grav-logo.jpg
 taxonomy:
     tag:
         - grav
         - CMS
         - Technology
 hide_git_sync_repo_link: false
+hide_from_post_list: false
 content:
     items: '@self.children'
     limit: '5'
