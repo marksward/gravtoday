@@ -16,4 +16,6 @@ Here is the very first post onto this new [Grav](https://getgrav.org/) setup.
 ### Why Grav? 
 Day to day I'm a [Drupal](https:/drupal.org) kind of guy. However not every site is a Drupal site. Drupal has very much grown into an absolute Swiss Army Knife of an application, very much overkill for many sites. I also have a softspot for file based systems having cut my first code and queries on file based databases.
 
+Running a file based CMS on a SSD based low spec host is going to be a voyage of discovery and I'm keen to see how it flies without the need to run Mysql or Mariadb.
+
 So here is to Grav. Swiftly and smoothly may she sail.
