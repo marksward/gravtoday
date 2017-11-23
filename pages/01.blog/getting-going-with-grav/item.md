@@ -7,8 +7,8 @@ taxonomy:
         - CMS
         - Technology
 hide_git_sync_repo_link: false
-header_image_width: 600
-header_image_height: 200
+header_image_width: 610
+header_image_height: 169
 hide_from_post_list: false
 content:
     items: '@self.children'
