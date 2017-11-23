@@ -8,7 +8,7 @@ taxonomy:
         - Technology
 hide_git_sync_repo_link: false
 header_image_width: 600
-header_image_height: 116
+header_image_height: 200
 hide_from_post_list: false
 content:
     items: '@self.children'
