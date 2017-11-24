@@ -16,4 +16,4 @@ IoT, AR, VR, Digital Assistants and AI. Hard to keep up with the acronyms and pr
 
 Getting to grips with Digital Experience? [CMS Wire](https://www.cmswire.com/digital-experience/a-beginners-guide-to-digital-experience-throwback-thursday/) has a great introductory article to get you off to a solid understanding. They make key point here for late starters
 
-> Your website doesn't constitute your web presence — much less your digital presence — and your home page is increasingly irrelevant.
+> Your website doesn't constitute your web presence — much less your digital presence — and your home page is increasingly irrelevant. (Gartner Research Vice President Mick MacComascaigh)
