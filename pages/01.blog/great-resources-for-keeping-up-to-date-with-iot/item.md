@@ -1,5 +1,12 @@
 ---
 title: 'Great resources for keeping up to date with IoT'
+taxonomy:
+    tag:
+        - Technology
+        - IoT
+        - AR
+        - VR
+        - 'Digital Experience'
 hide_git_sync_repo_link: false
 hide_from_post_list: false
 ---
