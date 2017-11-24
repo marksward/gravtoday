@@ -20,5 +20,9 @@ They make key point here for late starters
 
 > Your website doesn't constitute your web presence — much less your digital presence — and your home page is increasingly irrelevant. (Gartner Research Vice President Mick MacComascaigh)
 
-Forrester share a very useful [assessment checklist](http://blogs.forrester.com/f/b/users/pleclare/blog_1.gif)
+Forrester share a very useful [assessment checklist](http://blogs.forrester.com/f/b/users/pleclare/blog_1.gif) to help evaluate your maturity.
+
+Liferay host a wide range of resources (and a very nicely designed site). My current bookmark is thier short intro to [What is Digital Customer Experience?](https://www.liferay.com/resources/l?title=digital-customer-experience)
+
+
 
