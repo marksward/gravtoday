@@ -5,12 +5,12 @@ hide_git_sync_repo_link: false
 hide_git_repo_link: true
 ---
 
-## It's as easy as 1-2-3 to publish, share and collaboratively edit your Grav site content!
+## What is this place?
+Heres lies a collection of (mostly) technology articles and resources. Thoughts, opinions and bookmarked awesomeness in the world of technology and Digital Experience. We'll also dip into some lifestyle/biohacking info to round things up a little.
 
-1. Run the setup wizard for the [GitSync Plugin](../../admin/plugins/git-sync) and follow the provided instructions.
-2. Configure the [Git Sync Link](../../admin/themes/mytheme) settings in the Theme options to change the display and functionality of the automatically displayed Git Sync Link.
-3. If you would like, you can display a [Creative Commons(CC) Attribution License](../../admin/themes/mytheme) using the Theme options as well.
+The site itself is built on [GRAV CMS](https://getgrav.org/) a phenominal flat file based CMS for those site that don't need the grunt and complexity of a database driven CMS. GRAV is lean mean and incredibly easy to use whilst offering TWIG templating and MarkDown editing.
 
-<hr>
+Each edit to the site is synced to a public GitHub repository using GRAVs gitSync plugin.
 
-Want to no longer display this page on your site? Delete the page "Read Me" on your [Pages panel](../../admin/pages) or set the page's `Published` option under the `Options` Tab to `Yes`.
+If you want to help suport this site, or just want great site/VPS hosting feel free to checkout [Digital Oceans offerings using this referral link](https://m.do.co/c/df0999f02c68)
+
