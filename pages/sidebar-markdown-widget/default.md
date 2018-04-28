@@ -1,6 +1,6 @@
 ---
 title: 'Sidebar Markdown Widget'
-published: false
+published: true
 routable: false
 visible: false
 ---
