@@ -1,5 +1,6 @@
 ---
-title: Sidebar Markdown Widget
+title: 'Sidebar Markdown Widget'
+published: false
 routable: false
 visible: false
 ---
