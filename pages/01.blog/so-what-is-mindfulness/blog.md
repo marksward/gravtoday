@@ -16,9 +16,10 @@ The word Mindfulness is pretty much around us constantly and going by the numero
 
 My base description of Mindfulness is simply 'an awareness'. That is an awareness of how your interpreting things and where your reactions and repsonses are coming from. Its a phenominal skill that allows you to create a pause between hearing or seeing something and reacting habitually. Call it the skill to deal with the world with considered actions not reactions.
 
-John Kabat-Zinn has a great consise definition that
+John Kabat-Zinn has a great consise definition that:
 > “Mindfulness means paying attention in a particular way: on purpose, in the present moment, and nonjudgmentally.”
  
-Sharon Salzberg ask a little more of us by describing 
+Sharon Salzberg ask a little more of us by describing it as follows: 
 >“Mindfulness isn’t just about knowing that you’re hearing something, seeing something, or even observing that you’re having a particular feeling. It’s about doing so in a certain way – with balance and equanimity, and without judgment. Mindfulness is the practice of paying attention in a way that creates space for insight.” 
->
+
+Mindfulness gives us the opportunity to create a true(r) perception of what is happening around us by allowing us to know where our reactions are coming from. Helping us understand why we are thinking 'that cat is cute', 'the boss hates me' and so on. 
