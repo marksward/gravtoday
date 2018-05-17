@@ -6,7 +6,7 @@ hide_git_repo_link: true
 ---
 
 ## What is this place?
-Heres lies a collection of (mostly) technology articles and resources. Thoughts, opinions and bookmarked awesomeness in the world of technology and Digital Experience. We'll also dip into some lifestyle/biohacking info to round things up a little.
+Heres lies a collection of (mostly) technology articles and resources. Thoughts, opinions and bookmarked awesomeness in the world of technology and Digital Experience. We'll also dip into some lifestyle/biohacking info to round things up a little. I will throw in the odd book link etc where I find them valuable - and hey clicking the odd link helps my keep the lights on!
 
 The site itself is built on [GRAV CMS](https://getgrav.org/) a phenominal flat file based CMS for those site that don't need the grunt and complexity of a database driven CMS. GRAV is lean mean and incredibly easy to use whilst offering TWIG templating and MarkDown editing.
 
