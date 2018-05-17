@@ -15,7 +15,7 @@ John Kabat-Zinn has a great consise definition that:
 Sharon Salzberg ask a little more of us by describing it as follows: 
 >“Mindfulness isn’t just about knowing that you’re hearing something, seeing something, or even observing that you’re having a particular feeling. It’s about doing so in a certain way – with balance and equanimity, and without judgment. Mindfulness is the practice of paying attention in a way that creates space for insight.” 
 
-If you have seen Andy Puddicumbes' [great Ted talk](https://www.ted.com/talks/andy_puddicombe_all_it_takes_is_10_mindful_minutes) its well worth the 10 or so minutes of your time. Meanwhile Andy has the following definition
+If you haven't seen Andy Puddicumbes' [great Ted talk](https://www.ted.com/talks/andy_puddicombe_all_it_takes_is_10_mindful_minutes) its well worth the 10 or so minutes of your time. Meanwhile Andy has the following definition
 > Mindfulness is the ability to be present, to rest in the here and now, fully engaged with whatever we’re doing in the moment.
 
 Mindfulness gives us the opportunity to create a true(r) perception of what is happening around us by allowing us to know where our reactions are coming from. Helping us understand why we are thinking 'that cat is cute', 'the boss hates me', 'she does that just to wind me up' and so on. 
