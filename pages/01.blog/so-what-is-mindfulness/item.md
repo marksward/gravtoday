@@ -18,6 +18,6 @@ Sharon Salzberg ask a little more of us by describing it as follows:
 If you haven't seen Andy Puddicumbes' [great Ted talk](https://www.ted.com/talks/andy_puddicombe_all_it_takes_is_10_mindful_minutes) its well worth the 10 or so minutes of your time. Meanwhile Andy has the following definition
 > Mindfulness is the ability to be present, to rest in the here and now, fully engaged with whatever we’re doing in the moment.
 
-Mindfulness gives us the opportunity to create a true(r) perception of what is happening around us by allowing us to know where our reactions are coming from. Helping us understand why we are thinking 'that cat is cute', 'the boss hates me', 'she does that just to wind me up' and so on. 
+Mindfulness gives us the opportunity to create a true(r) perception of what is happening around us by allowing us to know where our reactions are coming from. Helping us understand why we are thinking 'that cat is cute', 'the boss hates me', 'she does that just to wind me up' or how we ended up losing our cool in the traffic this morning. 
 
 Developing the skill of Mindfulness has very few short cuts. Its not an intellectual persuit. Reading and studying Mindfulness won't create the skill. Like tennis or soccer or mastering the piano, consistent and purposeful practice is what get you there. Thats not to discount what you can (and should) learn from others. You need some theory to get going, but you'll need to put in some Meditation time to get there.
