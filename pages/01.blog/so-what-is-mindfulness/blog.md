@@ -23,3 +23,5 @@ Sharon Salzberg ask a little more of us by describing it as follows:
 >“Mindfulness isn’t just about knowing that you’re hearing something, seeing something, or even observing that you’re having a particular feeling. It’s about doing so in a certain way – with balance and equanimity, and without judgment. Mindfulness is the practice of paying attention in a way that creates space for insight.” 
 
 Mindfulness gives us the opportunity to create a true(r) perception of what is happening around us by allowing us to know where our reactions are coming from. Helping us understand why we are thinking 'that cat is cute', 'the boss hates me' and so on. 
+
+Developing the skill of Mindfulness has very few short cuts. Its not an intellectual persuit. Reading and studying Mindfulness won't create the skill. Like tennis or soccer or mastering the piano, consistent and purposeful practice is what get you there. Thats not to discount what you can (and should) learn from others. You need some theory to get going, but you'll need to put in some Meditation time to get there.
