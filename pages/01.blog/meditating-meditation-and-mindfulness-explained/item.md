@@ -1,5 +1,5 @@
 ---
-title: 'Meditating, Meditation and mindfulness explained'
+title: 'Meditating, Meditation and Mindfulness explained'
 date: '07:21 04-06-2018'
 ---
 
