@@ -15,7 +15,7 @@ Mindfulness as desribed previously can be described as a state of being non-judg
 ### Meditation
 Meditation is one of the tools that can help us become more Mindful. It could be likened to a swimmer doing daily press-ups, or the singer doing vocal warmups; it's not the end goal, but it helps reach it. 
 
-Meditation can be both formal and informal. Formal Meditation is when we usually sit for a period of time. Information Meditation is taking a moments opportunity to be Meditate to bring yourself to a more Mndful state. If you're about to head into a meeting that you feel is going to be tough a quick informal Meditation of taking a slow breath and becoming aware of how you feel and what thoughts are in your mind.
+Meditation can be both formal and informal. Formal Meditation is when we usually sit for a period of time. Informal Meditation is taking a moments opportunity to be Meditate to bring yourself to a more Mindful state. If you're about to head into a meeting that you feel is going to be tough a quick informal Meditation of taking a slow breath and becoming aware of how you feel and what thoughts are in your mind can allow you to deal with the meeting Mindfully rather than anxiously.
 
 Regular formal Meditation lays the foundations to becoming more Mindfully aware. Its best to formally Meditate daily. Quality regular formal Meditation is more effective than sparodically meditating or Meditating for too long without any quality. 
 > A plant is best watered little and often rather than giving it a bucket of water once a month
