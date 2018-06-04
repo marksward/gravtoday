@@ -1,6 +1,10 @@
 ---
 title: 'Meditating, Meditation and Mindfulness explained'
 date: '07:21 04-06-2018'
+taxonomy:
+    tag:
+        - Mindfulness
+        - Meditation
 ---
 
 A few conversations recently have tripped up with some confusion over Mindfulness and Meditation. Are they the same thing? Both words are often used interchangably. I'll try and lay out the differences here.
