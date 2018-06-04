@@ -3,7 +3,7 @@ title: 'Meditating, Meditation and Mindfulness explained'
 date: '07:21 04-06-2018'
 ---
 
-A few conversations recently have tripped up with some confusion that Mindfulness and Meditation are the same thing. I'll try and lay out the differences here.
+A few conversations recently have tripped up with some confusion over Mindfulness and Meditation. Are they the same thing? Both words are often used interchangably. I'll try and lay out the differences here.
 
 ### Mindfulness
 Mindfulness as desribed previously can be described as a state of being non-judgementally aware of the present moment. Being Mindful helps ensure our actions and habits are what we intend to do rather than what we do automatically or emotionally. We may habitually respond to situations without any awareness, potentially causing us regret. Awareness allows us to focus fully on what we are interacting with and respond with greater knowledge and understanding.
